@@ -1,0 +1,18 @@
+{
+  "database": {
+    "users": {
+      "user": [
+        {
+          "login": "vitaly",
+          "api_key": "0imfnc8mVLWwsAawjYr4Rx-Af50DDqtl",
+          "_id": "0"
+        },
+        {
+          "login": "masha",
+          "api_key": "cGFzc3d:vcmQxMnUzNS03mVLrg",
+          "_id": "1"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+<configuration>
+    <filesToCheck>
+        <fileToCheck>
+            src/main/resources
+        </fileToCheck>
+        <fileToCheck>
+            src/main/java/testDirectory/database.xml
+        </fileToCheck>
+    </filesToCheck>
+    <probability>
+        6
+    </probability>
+</configuration>

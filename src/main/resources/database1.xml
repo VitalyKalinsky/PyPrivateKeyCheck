@@ -1,0 +1,21 @@
+<database>
+    <users>
+        <user id="0" api="97D9gd086nUzNS03mVLawjYr">
+            <login>
+                vitaly
+            </login>
+            <api_key>
+                dml0YWx5a2FsaW5h
+            </api_key>
+        </user>
+        <user id="1" api="">
+            <login>
+                masha
+            </login>
+            <api_key>
+                cGFzc3dvcmQxMnUzNS03mVLWwsAawjYr
+            </api_key>
+        </user>
+    </users>
+</database>
+
