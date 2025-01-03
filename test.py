@@ -22,3 +22,4 @@ def rec_file(directory):
 
     return files
 print(rec_file('src/main/java'))
+print(os.path.splitext('src/main/java/testDirectory/database1.xml'))
